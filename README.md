@@ -1,2 +1,2 @@
-# java-spaceship-shooting-game
-spaceship shooting game using java swing
+# Alien Assault
+space invaders clone using java swing
